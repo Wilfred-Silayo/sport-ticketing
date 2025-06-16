@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "566599363327",
+    "project_id": "sports-ticketing-d8193",
+    "storage_bucket": "sports-ticketing-d8193.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566599363327:android:36886c15d2233c30943aca",
+        "android_client_info": {
+          "package_name": "com.example.sport_ticketing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCizcJsG7HLpA0cSjb8YDuabQmPCDxEdRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:566599363327:android:7c77a47679396435943aca",
+        "android_client_info": {
+          "package_name": "com.example.sports_ticketing"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCizcJsG7HLpA0cSjb8YDuabQmPCDxEdRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
