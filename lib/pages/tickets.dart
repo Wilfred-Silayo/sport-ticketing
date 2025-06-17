@@ -72,7 +72,7 @@ class UserTicketsView extends ConsumerWidget {
             },
             error: (error, st) {
               // print(st);
-              // print(error.toString());
+              print(error.toString());
               return ErrorPage(
                 error: error.toString(),
               );
